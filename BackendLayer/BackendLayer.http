@@ -1,0 +1,11 @@
+@BackendLayer_HostAddress = http://localhost:5175
+
+GET {{BackendLayer_HostAddress}}/openapi/v1.json
+Accept: application/json
+
+###
+
+GET {{BackendLayer_HostAddress}}/order/
+Accept: application/json
+
+###

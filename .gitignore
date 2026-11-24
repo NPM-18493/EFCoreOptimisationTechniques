@@ -1,1 +1,10 @@
 /.DS_Store
+BackendLayer/bin/*
+BackendLayer/obj/*
+ServiceLayer/bin/*
+ServiceLayer/obj/*
+EFDatabaseLayer/bin/*
+EFDatabaseLayer/obj/*
+BackendLayer/.idea/*
+.idea/*
+BackendLayer/appsettings.Development.json
